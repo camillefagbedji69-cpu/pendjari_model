@@ -14,14 +14,11 @@ As part of a collaborative course project, I was responsible for:
 - Conducting **post-scenario statistical analysis** to quantify the 
   relative importance of management interventions
 
----
-
 ## 🌍 Context
 
 Pendjari National Park faces multiple pressures: climate variability, poaching, and fire regimes. Understanding the feedback loops between water, vegetation, and wildlife is critical for sustainable management. 
 This model simulates 50-year dynamics under three policy scenarios to inform conservation strategies.
 
----
 
 ## 🔄 Model Structure
 
@@ -55,8 +52,6 @@ The model consists of three interacting compartments:
 3. **Fire-Vegetation**: Fire reduces biomass but can stimulate regrowth
 4. **Poaching-Wildlife**: Direct mortality reduces population
 
----
-
 ## 📊 Scenarios
 
 ### Scenario 1: Pessimistic (High Pressure)
@@ -75,7 +70,6 @@ The model consists of three interacting compartments:
 - **Result**: **Critical finding** – Population increases BUT water 
   resources completely depleted due to unchecked vegetation growth
 
----
 
 ## 🔬 Methodology
 
@@ -100,7 +94,6 @@ on system outcomes.
 5. **Variable importance**: %IncMSE (% Increase in Mean Squared Error 
    when variable is permuted)
 
----
 
 ## 📈 Key Results
 
@@ -125,7 +118,6 @@ The "Optimistic" scenario revealed an unexpected risk:
 - Lesson: **Controlled fire is ecologically necessary** to prevent 
   vegetation from monopolizing water resources
 
----
 
 ## 🛠️ Technologies
 
@@ -152,8 +144,6 @@ Small changes in fire frequency can trigger regime shifts in water availability,
 ### Lesson 3: Poaching as Primary Threat
 Despite complex ecological interactions, direct anthropogenic pressure (poaching) remains the most controllable and impactful factor for wildlife conservation.
 
----
-
 ## 🔮 Future Directions
 
 ### Model Extensions
@@ -172,12 +162,10 @@ Despite complex ecological interactions, direct anthropogenic pressure (poaching
 - Optimal fire rotation schedules
 - Climate change scenarios (reduced precipitation)
 
----
 ## 📧 Contact
 
 Boris Camille FAGBEDJI  
 Email: camillefagbedji69@gmail.com  
-Application: AIMS Structured Master's Program 2026-2027
 
 ---
 
@@ -189,5 +177,4 @@ This project was completed as part of a group assignment for the Systemic Modeli
 
 ## 📝 Note on Collaboration
 
-This work represents a **collective effort** by our class team. The NetLogo model structure was designed collaboratively, while I took ownership of the post-simulation analysis using Random Forest meta-modeling 
-to quantify parameter sensitivities. This README focuses on the analytical components I developed independently.
+This work represents a **collective effort** by our class team. The NetLogo model structure was designed collaboratively, while I took ownership of the post-simulation analysis using Random Forest meta modeling to quantify parameter sensitivities. This README focuses on the analytical components I developed independently.
