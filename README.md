@@ -1,6 +1,4 @@
 # Systems Modeling of Water-Vegetation-Wildlife Interactions in Pendjari National Park
-**Date**: June 2025  
-**Context**: Group project for Systemic Modeling course  
 
 ## 🎯 Project Overview
 
