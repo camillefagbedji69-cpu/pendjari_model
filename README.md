@@ -160,19 +160,6 @@ Despite complex ecological interactions, direct anthropogenic pressure (poaching
 - Optimal fire rotation schedules
 - Climate change scenarios (reduced precipitation)
 
-## 📧 Contact
-
-Boris Camille FAGBEDJI  
-Email: camillefagbedji69@gmail.com  
-
----
-
 ## 🤝 Acknowledgments
 
-This project was completed as part of a group assignment for the Systemic Modeling course. I specifically contributed the sensitivity analysis framework and statistical evaluation of scenario outcomes.
-
----
-
-## 📝 Note on Collaboration
-
-This work represents a **collective effort** by our class team. The NetLogo model structure was designed collaboratively, while I took ownership of the post-simulation analysis using Random Forest meta modeling to quantify parameter sensitivities. This README focuses on the analytical components I developed independently.
+This project was completed as part of a group assignment for my Systemic Modeling course. I specifically contributed the sensitivity analysis framework and statistical evaluation of scenario outcomes.
